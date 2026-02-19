@@ -1,6 +1,7 @@
 # trending-youtube-analysis-eda
 
 **Trending YouTube Video Statistics Analysis** 📊
+
 **Status: 🚧 Work in Progress (WIP)**
 
 Proyek ini sedang dalam tahap pengembangan aktif. Fokus saat ini adalah pada pembersihan data dan analisis eksploratif (EDA).
