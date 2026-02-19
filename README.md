@@ -22,4 +22,4 @@ Proyek ini bertujuan untuk menggali wawasan dari dataset video trending di YouTu
 🛠️ **Tech Stack**
 - Language: Python
 
-- Library: Pandas, Seaborn, Matplotlib, Kagglehub
+- Library: Pandas, Seaborn, Matplotlib, Kagglehub (https://www.kaggle.com/datasets/datasnaek/youtube-new)
